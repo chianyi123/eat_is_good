@@ -1,0 +1,17 @@
+body{
+   text-align: center;
+}
+
+.cy{
+   background-color: #48D1CC;
+   width: 100px;
+   height: 100px;
+   display: inline;
+   font-size: 30px;
+   color:white;
+}
+
+hl{
+   font-size: 50px;
+   color: #FFBF00;
+}
